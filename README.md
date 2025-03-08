@@ -19,8 +19,7 @@ click a link. For example:
   page for that item
 
 All of these actions require us to use **programmatic navigation** to change the
-browser URL, and show the user a new page in our application, **without** making
-the user click on a link.
+browser URL, and show the user a new page in our application, **without** making user click on a link.
 
 We've included some files for you to code along in as we walk through the
 examples below. The files already have routing set up — we just need to update
